@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **Flutter, Java, Spring boot, System Design, Performance**
+- 🤝 My tech stack **Flutter, Java, Spring boot, System Design, Performance**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VaishnavDatir](https://github.com/VaishnavDatir)
 
